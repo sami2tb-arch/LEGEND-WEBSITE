@@ -1,0 +1,7 @@
+{
+  "name": "Legend Industries - Manufacturing & Gifting",
+  "description": "High-conversion, accessibility-focused corporate gifting and manufacturing web application for Legend Industries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
